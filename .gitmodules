@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/alexander9306/NestJS-Crud.git
+[submodule "web"]
+	path = web
+	url = https://github.com/alexander9306/Angular-Simple-Crud.git
