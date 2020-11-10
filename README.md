@@ -9,3 +9,4 @@ $ git clone https://github.com/alexander9306/NestJS-graphql-example.git --recurs
 $ cd test
 $ docker-compose up -d --build
 ```
+The app will run on localhost port 80 by default
