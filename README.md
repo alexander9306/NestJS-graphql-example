@@ -1,6 +1,6 @@
 ## Description
 
-Products API made with TypeScript.
+Products Web Aplication made with TypeScript.
 
 ## Install and Run
 
