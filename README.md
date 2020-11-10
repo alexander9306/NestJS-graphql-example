@@ -2,7 +2,7 @@
 
 Products API made with TypeScript.
 
-## Installation and Running
+## Install and Run
 
 ```bash
 $ git clone https://github.com/alexander9306/NestJS-graphql-example.git --recurse-submodules test
